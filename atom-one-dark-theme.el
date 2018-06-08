@@ -27,7 +27,7 @@
 
 ;;; Code:
 
-(deftheme matt-atom-one-dark
+(deftheme atom-one-dark
   "Atom One Dark - An Emacs port of the Atom One Dark theme from Atom.io.")
 
 (defvar atom-one-dark-colors-alist
@@ -440,7 +440,7 @@ Current modes, and their faces, impacted by this variable:
                   (file-name-directory load-file-name))))
 ;; Automatically add this theme to the load path
 
-(provide-theme 'matt-atom-one-dark)
+(provide-theme 'atom-one-dark)
 
 ;; Local Variables:
 ;; no-byte-compile: t
