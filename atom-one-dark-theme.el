@@ -27,7 +27,7 @@
 
 ;;; Code:
 
-(deftheme atom-one-dark
+(deftheme matt-atom-one-dark
   "Atom One Dark - An Emacs port of the Atom One Dark theme from Atom.io.")
 
 (defvar atom-one-dark-colors-alist
