@@ -440,7 +440,7 @@ Current modes, and their faces, impacted by this variable:
                   (file-name-directory load-file-name))))
 ;; Automatically add this theme to the load path
 
-(provide-theme 'atom-one-dark)
+(provide-theme 'matt-atom-one-dark)
 
 ;; Local Variables:
 ;; no-byte-compile: t
